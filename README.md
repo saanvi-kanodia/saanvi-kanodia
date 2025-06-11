@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I'm Saanvi:
 🔭 I’m currently working on Audio feature engineering using ML<br>👯 I’m looking to collaborate on ML projects<br>🤝 I’m looking for help with understanding model evaluation matrics<br>🌱 I’m currently learning ML models<br>⚡ Fun fact : I started as a Frontend Designer
 
 
