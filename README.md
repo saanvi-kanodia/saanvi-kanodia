@@ -2,11 +2,11 @@
 
 🎓 Third year CS (Data Science) student at NMIMS Mumbai  
 🤖 Passionate about ML, AI systems, and building things that actually work  
-💼 Ex-PwC | Built multi-agent GenAI pipelines using Azure OpenAI & AutoGen  
+💼 Ex-PwC intern | Built multi-agent GenAI pipelines using Azure OpenAI & AutoGen  
 🔭 Currently exploring multimodal document intelligence and LLM orchestration  
 ⚡ Fun fact: Started as a Frontend Designer, now building AI pipelines!
 
-## 🚀 What I've work edon
+## 🚀 What I've worked on
 - 🧠 Agentic AI systems (LangChain, LangGraph, AutoGen)
 - 📄 Document Intelligence & multimodal pipelines
 - 🔍 Fraud detection & ML classification systems
